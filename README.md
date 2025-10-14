@@ -1,4 +1,4 @@
-# Siddhesh Parab Portfolio
+# Portfolio
 
 Personal portfolio website built with PHP, HTML and CSS showcasing my skills, projects, experience and contact form.
 
